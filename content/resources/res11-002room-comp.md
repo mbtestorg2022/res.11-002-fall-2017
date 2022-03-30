@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: af51e631-568c-11bc-fd2f-7001a2c48de5
 resourcetype: Image
 title: RES11-002room-comp.jpg
 uid: 5a364018-b9d7-f49e-e355-909e88e33683

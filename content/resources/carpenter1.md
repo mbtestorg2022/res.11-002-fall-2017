@@ -8,6 +8,7 @@ image_metadata:
   credit: Image by Sham Sthankiya Photography. Used with permission.
   image-alt: A man stands behind a lecturn with a video screen that reads "Something
     Here."
+parent_uid: fc7f9e0e-6206-a6ae-8fbd-276bc3337775
 resourcetype: Image
 title: Carpenter1.JPG
 uid: 457e00f5-0bb7-e234-6fbc-e29a3e15c720

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: af51e631-568c-11bc-fd2f-7001a2c48de5
 resourcetype: Image
 title: Larry_Stephen.png
 uid: fa8ed3ff-51e2-b5ef-094c-709f9edbe8cb
